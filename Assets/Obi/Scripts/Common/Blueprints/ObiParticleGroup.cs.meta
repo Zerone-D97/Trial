@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 775ad4994fda946d1a5936c7e2dfc785
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55579
+  packageName: Obi Rope
+  packageVersion: 7.0.3
+  assetPath: Assets/Obi/Scripts/Common/Blueprints/ObiParticleGroup.cs
+  uploadId: 693862
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_Blueprint: {fileID: 11400000, guid: d82adbfa2e0744621823a657cc1d4d9a, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
